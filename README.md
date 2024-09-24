@@ -1,4 +1,21 @@
 # Express.JS CRUD App
+
+# 👉Description
+
+   This Express CRUD App serves as a practical example of building a RESTful API using Node.js and Express . It provides users with the ability to create,read,update and delete items in a straightforward manner. The application is designed to be lightweight and easy to understand ,making it an excellent starting point for developers looking to learn about Express and RESTful principles.
+
+### For a CRUD API , you typically need four types of operations:
+
+👉 Create (POST): Adds new data.
+
+👉Read(GET): Retrives data.
+
+👉Update(PUT,PATCH): Modifies existing data.
+
+👉Delete(DELETE): Removes data.
+
+
+
 ### Installing Node.js and npm
 
 - After installing Node.js and npm , You should check your version . for that type the command on your terminal or command prompt:
