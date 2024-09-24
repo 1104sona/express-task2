@@ -14,7 +14,9 @@
 
 👉Delete(DELETE): Removes data.
 
+### A small video to show how it's works.
 
+https://github.com/user-attachments/assets/11ae5bd4-e3b3-4b08-b6a9-c306b62e7815
 
 ### Installing Node.js and npm
 
